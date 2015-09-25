@@ -1,0 +1,16 @@
+html{
+    background: #758d34;
+}
+    ul{
+        list-style-type: none;
+    }
+    
+    li{
+        display: inline;
+        padding: 5%;
+    }
+/*the dot makes it a class*/
+.yellow {
+    color: #f2c31f;
+    font-size: 100%;
+}
